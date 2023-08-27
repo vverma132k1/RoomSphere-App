@@ -13,11 +13,11 @@ RoomSphere is a robust web chat application that supports multi-room functionali
 
 ### Low-latency Communication
 - Utilizes WebSocket technology via Socket.io.
-- Reduces message latency to under 50 milliseconds for real-time interaction.
+- Reduces message latency to just a few milliseconds for real-time interaction.
 
 ### Robust Backend
 - Built with NodeJS and ExpressJS for efficient backend logic and API handling.
-- Manages over 2000 API calls per day with a response time under 100 milliseconds.
+- Manages over hundreds of API calls per day with a response time under 100 milliseconds.
 
 ## Technologies Used
 
